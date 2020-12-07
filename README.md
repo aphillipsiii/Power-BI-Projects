@@ -4,12 +4,12 @@ The purpose of this site is exhibit how I have utilized Power BI to extract acti
 
 Key skills demonstrated will include;  
   1. Defining the "WHY" for analysis (e.g., why something happened, why it is important, etc.)
-  2, Data Extraction, Transformation, and Load (ETL)
-  2. Data Cleansing
-  3. Data Modeling
-  4. Descriptive Analytics
-  5. Data Visualization (Dashboarding)
-  6. Identifying actionable insight 
+  2. Data Extraction, Transformation, and Load (ETL)
+  3. Data Cleansing
+  4. Data Modeling
+  5. Descriptive Analytics
+  6. Data Visualization (Dashboarding)
+  7. Identifying actionable insight 
 
 
 Site Owner: Anderson Phillips III  
