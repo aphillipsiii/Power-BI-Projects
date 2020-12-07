@@ -1,8 +1,8 @@
 ** DATA IS THE NEW CURRENCY! **  
 
-The purpose of this site is exhibit how I have utilized Power BI to extract actionable insights from historical data. Each project reflects a real-world problem encountered on a daily basis. I will leverage Power BI's advanced features to demonstrate how you can gain access to the **"story"** that lies within your data.  
+###The purpose of this site is exhibit how I have utilized Power BI to extract actionable insights from historical data. Each project reflects a real-world problem encountered on a daily basis. I will leverage Power BI's advanced features to demonstrate how you can gain access to the **"story"** that lies within your data.  
 
-Key skills demonstrated will include;  
+###Key skills demonstrated will include;  
   1. Defining the "WHY" for analysis (e.g., why something happened, why it is important, etc.)
   2, Data Extraction, Transformation, and Load (ETL)
   2. Data Cleansing
