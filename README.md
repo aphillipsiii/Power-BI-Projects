@@ -15,7 +15,7 @@ Key skills demonstrated will include;
 Site Owner: Anderson Phillips III  
 
 
-#[Project 1: Patient Appointment Analysis](https://aphillipsiii.github.io/Power-BI-Projects/)  
+#[Project 1: Patient Appointment Analysis](https://github.com/aphillipsiii/Power-BI-Projects/)  
 
 **Overview**  
 
