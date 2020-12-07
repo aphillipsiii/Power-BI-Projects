@@ -2,7 +2,7 @@
 Anderson Phillips III  
 The purpose of this site is highlight my experiences using Power BI to extract actionable insights from historical data (i.e. descriptive analytics).
 
-#[Project 1: Patient Appointment Analysis](https://github.com/aphillipsiii/Power-BI-Projects/tree/main/patient_appointment_analysis)  
+#[Project 1: Patient Appointment Analysis](https://github.com/aphillipsiii/Power-BI-Projects)  
 
 **Overview**  
 
