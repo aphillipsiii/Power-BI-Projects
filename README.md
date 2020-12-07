@@ -1,8 +1,21 @@
-#Power BI Porfolio  
-Anderson Phillips III  
-The purpose of this site is highlight my experiences using Power BI to extract actionable insights from historical data (i.e. descriptive analytics).
+** DATA IS THE NEW CURRENCY! **  
 
-#[Project 1: Patient Appointment Analysis](https://github.com/aphillipsiii/Power-BI-Projects/patient_appointment_analysis)  
+The purpose of this site is exhibit how I have utilized Power BI to extract actionable insights from historical data. Each project reflects a real-world problem encountered on a daily basis. I will leverage Power BI's advanced features to demonstrate how you can gain access to the **"story"** that lies within your data.  
+
+Key skills demonstrated will include;  
+  1. Defining the "WHY" for analysis (e.g., why something happened, why it is important, etc.)
+  2, Data Extraction, Transformation, and Load (ETL)
+  2. Data Cleansing
+  3. Data Modeling
+  4. Descriptive Analytics
+  5. Data Visualization (Dashboarding)
+  6. Identifying actionable insight 
+
+
+Site Owner: Anderson Phillips III  
+
+
+#[Project 1: Patient Appointment Analysis](https://aphillipsiii.github.io/Power-BI-Projects/)  
 
 **Overview**  
 
