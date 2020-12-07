@@ -1,7 +1,7 @@
 # Power-BI-Projects
 Power BI Portfolio
 
-#[Project 1: Patient Appointment Analysis]()  
+#[Project 1: Patient Appointment Analysis](https://github.com/aphillipsiii/Power-BI-Projects/patient_appointment_analysis_proj)  
 
 **Overview**  
 
@@ -19,5 +19,7 @@ automated SMS appointment reminder.
 **Key Objectives**  
 1. Identify factors that are shared among patients who routinely no-show for appointments
   2. Determine the most important factor that contributes to whether a patient is a no-show for their scheduled appointment
-  3. Provide suggestions to minimize the number of No-Shows
+  3. Provide suggestions to minimize the number of No-Shows  
+  
+![](/images/Patient_Appointment_Data_Analysis_Dashboard.png)
 
